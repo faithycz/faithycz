@@ -7,4 +7,4 @@ I currently work as a Student IT Support Specialist at Penn State, helping stude
 On the side, I'm a licensed amateur radio operator! My proudest accomplishment involves being in the cover feature of QST Magazine and speaking live with NASA astronaut Stephen Bowen, who was aboard the International Space Station (ISS), via radio technology.
 
 **Let's connect!**  
-![Static Badge](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=LinkedIn&logoColor=white&label=LinkedIn&color=LinkedIn%20blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffaith-giedrycz%2F)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/faith-giedrycz/)
